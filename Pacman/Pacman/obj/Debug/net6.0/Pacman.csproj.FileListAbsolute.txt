@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\bin\Debug\net6.0\Pacman.exe
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\bin\Debug\net6.0\Pacman.deps.json
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\bin\Debug\net6.0\Pacman.runtimeconfig.json
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\bin\Debug\net6.0\Pacman.dll
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\bin\Debug\net6.0\Pacman.pdb
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.AssemblyInfo.cs
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.dll
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\refint\Pacman.dll
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.pdb
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\Pacman.genruntimeconfig.cache
+C:\Users\Anna\Desktop\StudyingSharp\pacman\Pacman\Pacman\obj\Debug\net6.0\ref\Pacman.dll
